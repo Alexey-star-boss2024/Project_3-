@@ -103,7 +103,7 @@ EDA + Feature Engineering. Соревнование на Kaggle
 
 **Датасеты**:
 
-* *hotels.csv* - первоначальные данные для исследования с учебной платформы Skillfactory, используется в предпроектной работе - pre_Project-3.ipynb;
+* *hotels.csv* - первоначальные данные для исследования с учебной платформы Skillfactory, используется в Project_3_(первый_кейс).ipynb;
 * ***hotels_train.csv*** - первоначальные данные для исследования с Kaggle.com;
 * ***hotels_test.csv*** - данные для валидации модели с Kaggle.com;
 
