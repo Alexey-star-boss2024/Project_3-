@@ -14,7 +14,7 @@ EDA + Feature Engineering. Соревнование на Kaggle
 
   > Перейти прямо к [презентации решения кейса]([https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-3/Project-3](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md#Описание-проекта).ipynb)
 
-[6. Выводы](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md)#Выводы)  
+[6. Выводы](#Выводы)  
 
 <br>
 
