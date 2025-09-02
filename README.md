@@ -6,13 +6,13 @@ EDA + Feature Engineering. Соревнование на Kaggle
 
 [2. Какой кейс решаем?](#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md)#Краткая-информация-о-данных)
+[3. Краткая информация о данных](#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md)#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом?](#Этапы-работы-над-проектом?)
 
-[5. Результаты](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md)#Результаты)
+[5. Результаты](#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-3/Project-3.ipynb)
+  > Перейти прямо к [презентации решения кейса]([https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-3/Project-3](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md#Описание-проекта).ipynb)
 
 [6. Выводы](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md)#Выводы)  
 
