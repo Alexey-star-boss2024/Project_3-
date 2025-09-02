@@ -2,7 +2,7 @@
 первый кейс. Рейтинг отеля по данным сайта Booking.
 EDA + Feature Engineering. Соревнование на Kaggle
 ## Оглавление
-[1. Описание проекта](https://github.com/Alexey-star-boss2024/Project_3-/blob/master/README))#Описание-проекта)
+[1. Описание проекта]#(Описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/Alexey-star-boss2024/Project_3-/edit/master/README.md)#Какой-кейс-решаем)
 
