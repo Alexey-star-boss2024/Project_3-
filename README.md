@@ -1,4 +1,4 @@
-# Project_3-
+# Project_3 - первый_кейс
 Первый кейс. Рейтинг отеля по данным сайта Booking.
 EDA + Feature Engineering. Соревнование на Kaggle
 ## Оглавление
