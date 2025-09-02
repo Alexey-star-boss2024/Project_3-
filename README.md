@@ -12,7 +12,7 @@ EDA + Feature Engineering. Соревнование на Kaggle
 
 [5. Результаты](#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/Alexey-star-boss2024/Project_3-/blob/master/Project_3_(первый_кейс).ipynb) '/n'
+  > Перейти прямо к [презентации решения кейса](https://github.com/Alexey-star-boss2024/Project_3-/blob/master/Project_3_(первый_кейс).ipynb) 
   > Перейти прямо к [на Kaggle соревнование](https://www.kaggle.com/code/alex202526/project-3-booking-reviews.ipynb)
 
 [6. Выводы](#Выводы)  
